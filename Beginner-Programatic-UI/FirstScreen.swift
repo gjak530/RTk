@@ -16,7 +16,7 @@ class FirstScreen: UIViewController {
         super.viewDidLoad()
         setupNextButton()
         
-        view.backgroundColor = .green
+        view.backgroundColor = .blue
     }
     
     
