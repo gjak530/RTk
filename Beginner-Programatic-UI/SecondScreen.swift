@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SecondScreen.swift
 //  Beginner-Programatic-UI
 //
 //  Created by Sean Allen on 10/16/18.
@@ -8,13 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SecondScreen: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        view.backgroundColor = .darkGray
     }
-
-
 }
-
