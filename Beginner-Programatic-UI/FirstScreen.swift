@@ -15,7 +15,8 @@ class FirstScreen: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setupNextButton()
-        view.backgroundColor = .red
+        
+        view.backgroundColor = .green
     }
     
     
